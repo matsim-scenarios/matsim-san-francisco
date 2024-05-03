@@ -7,3 +7,7 @@ A recommended directory structure is as follows:
   * One subdirectory for each scenario, e.g. `scenarios/mySpecialScenario01`.
   * This minimally contains a config file, a network file, and a population file.
   * Output goes one level down, e.g. `scenarios/mySpecialScenario01/output-from-a-good-run/...`.
+
+### Internal documentation
+
+See [GoogleDoc](https://docs.google.com/document/d/1eUzE57qJy5mK_DeiKfjSa6k-lEsmDJG_eWEUX-W3dsQ/edit)
